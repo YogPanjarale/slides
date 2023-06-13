@@ -1,31 +1,15 @@
 # Create Beautiful Presentations With Svelte
 
-Learn how to create beautiful presentations with Svelte using the HTML presentation framework Reveal.js and Tailwind CSS.
+Learning how to create beautiful presentations with Svelte using the HTML presentation framework Reveal.js and Tailwind CSS.
 
-## Post
+## Inspiration/intial source
 
-✍️ https://joyofcode.xyz/beautiful-presentations-with-svelte
+▶ <https://github.com/joysofcode/beautiful-presentations-with-svelte>
 
-## Remote Development
+## I got to know few things while learning this
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/beautiful-presentations-with-svelte)
-
-## Local Development
-
-### 🧑‍🤝‍🧑 Clone the project
-
-```sh
-https://github.com/joysofcode/beautiful-presentations-with-svelte
-```
-
-### 📦️ Install dependencies
-
-```sh
-pnpm i
-```
-
-### 💿️ Run the development server
-
-```sh
-pnpm run dev
-```
+1. for math equations use [markdown-math](http://upyesp.org/posts/makrdown-vscode-math-notation/)
+2. for speaker notes using speaker view
+shotcut is `S` key
+3. for full screen mode use `F` key
+4. for overview mode use `Esc` or `O` key
