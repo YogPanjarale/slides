@@ -13,3 +13,4 @@ Learning how to create beautiful presentations with Svelte using the HTML presen
 shotcut is `S` key
 3. for full screen mode use `F` key
 4. for overview mode use `Esc` or `O` key
+5. notes can be used in markdown using `note:` keyword then the note will appear in speaker view

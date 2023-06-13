@@ -4,5 +4,5 @@
 	import Markdown from './markdown.svelte'
 </script>
 
-<Markdown name="Test.md" external />
-<!-- <Markdown name="Organic Che.md" external /> -->
+<!-- <Markdown name="Test.md" external /> -->
+<Markdown name="Chem-o-RM.md" external />

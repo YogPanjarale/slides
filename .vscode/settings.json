@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 15,
+    "markdownlint.config": {
+        "MD041":false,
+        "md036":false,
+    }
+}
