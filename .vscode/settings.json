@@ -3,5 +3,6 @@
     "markdownlint.config": {
         "MD041":false,
         "md036":false,
+        "md003":false,
     }
 }

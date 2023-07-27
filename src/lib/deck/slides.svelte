@@ -1,4 +1,5 @@
 <script lang="ts">
+	export let title:string;
 	import { onMount } from 'svelte'
 
 	import Reveal from 'reveal.js'
@@ -12,7 +13,6 @@
 	import 'reveal.js/plugin/highlight/monokai.css'
 
 	import Presentation from './presentation.svelte'
-
 	onMount(() => {
 		const deck = new Reveal({
 			plugins: [Markdown, Highlight, Notes, KaTeX],
@@ -29,6 +29,6 @@
 
 <div class="reveal">
 	<div class="slides">
-		<Presentation />
+		<Presentation {title}/>
 	</div>
 </div>
