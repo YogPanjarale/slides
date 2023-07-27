@@ -36,3 +36,4 @@ Learning how to create beautiful presentations with Svelte using the HTML presen
 - Try it with [Animotion](https://animotionjs.vercel.app/) and some animations
 - Further can be used to make simple videos using screen recording and voice over
 
+<!-- Further pointers above can be made in individiual slides (Preferably Vertical) -->
