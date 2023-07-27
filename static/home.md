@@ -1,7 +1,3 @@
----
-title: Slides Home
-
----
 # Slides 🔥
 
 Slides Deck written in code | [Github](https://github.com/YogPanjarale/slides)
